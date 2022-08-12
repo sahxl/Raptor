@@ -1,0 +1,3 @@
+name: Raptor
+main: cc.jasonn.raptor.RaptorSpigotPlugin
+version: 1.0.0
